@@ -1,0 +1,1 @@
+import{r,j as s}from"./index-Bku8Cd40.js";import{T as e}from"./TermsAndPrivacy-CbMAUi5A.js";const i=()=>(r.useEffect(()=>{window.scrollTo(0,0)},[]),s.jsx("section",{className:"pt-32 pb-24 min-h-screen",children:s.jsx("div",{className:"max-w-4xl mx-auto px-6 lg:px-8",children:s.jsx(e,{title:"Terms & Conditions"})})}));export{i as default};
